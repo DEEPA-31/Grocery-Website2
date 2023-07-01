@@ -1,1 +1,2 @@
-# Grocery-Website2
+# Grocery-Website
+Grocery Website using HTML , CSS and JavaScript.
